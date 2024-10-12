@@ -16,7 +16,7 @@
 
 
 
-### Reproduce Experiments
+### Run Experiments
 -  homophilous graphs 
 ```
 sh homophilous/run.sh
