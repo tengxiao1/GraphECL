@@ -1,4 +1,4 @@
-## GraphECL: Towards Efficient Contrastive Learning for Graphs 
+## GraphECL: Towards Efficient Contrastive Learning for Graphs (ICML 2024)
 
 
 ### Required Packages
