@@ -29,3 +29,14 @@ sh homophilous/run_ind.sh
 sh heterophilous/run.sh
 sh heterophilous/run_ind.sh
 ```
+
+##  Reference
+
+If you find this repo to be useful, please cite our paper:
+```bibtex
+@inproceedings{xiaoefficient,
+  title={Efficient Contrastive Learning for Fast and Accurate Inference on Graphs},
+  author={Xiao, Teng and Zhu, Huaisheng and Zhang, Zhiwei and Guo, Zhimeng and Aggarwal, Charu C and Wang, Suhang and Honavar, Vasant G},
+  booktitle={Forty-first International Conference on Machine Learning (ICML)},
+  year={2024}
+}
