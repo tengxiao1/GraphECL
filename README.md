@@ -17,6 +17,7 @@
 
 
 ### Run Experiments
+
 -  homophilous graphs 
 ```
 sh homophilous/run.sh
@@ -30,9 +31,9 @@ sh heterophilous/run.sh
 sh heterophilous/run_ind.sh
 ```
 
-##  Reference
+##  Reference 
 
-If you find this repo to be useful, please cite our paper:
+If you find our repo to be useful, please cite our paper:
 ```bibtex
 @inproceedings{xiaoefficient,
   title={Efficient Contrastive Learning for Fast and Accurate Inference on Graphs},
